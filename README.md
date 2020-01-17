@@ -1,37 +1,39 @@
-## Welcome to GitHub Pages
+# Learning-Journal :earth_asia:	
 
-You can use the [editor on GitHub](https://github.com/baraahhawari/Learning-Journal-/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+#### first project in this cohort hope you enjoy it. :smiley:
+## my name is Bara'ah :smile:
+**I'm a responsive web developer.** **I'm a _Creative_ and _self-starting_ Front-End Developer, highly skilled in HTML/CSS/JavaScript.**
+#### those are the changes that I made on this Theme-info (wishing U all the best) :wink:
 
-### Markdown
+- Welcome to my portofolio  :rocket:	
+    - My background education is in `Telecommunication Engineering`. :nerd_face:	
+    - You can visit My [GitHub](https://github.com/baraahhawari) profile. :sunglasses:	
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
+this is an image of the github logo :sunglasses:
+![github logo](https://i.pinimg.com/originals/dc/1a/1a/dc1a1a4287f57e4a80ea5ecfd912ee96.png)
 
-# Header 1
-## Header 2
-### Header 3
+:thinking: As Oprah Winfrey said:
+ >  “ It doesn’t matter who you are, where you come from. The ability to triumph begins with you.  Always. ” 
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+:green_heart:	 
+```javascript
+//Its up 2 U
+if (youWant() === (true)){
+youCan();
+} else{
+youCant();}
 ```
+	 
+ ### To Do List (In This Cohort) :hourglass_flowing_sand: :
+	
+- [x] @mentions, #refs, [links](), **formatting**, and <del>tags</del> supported
+- [x] list syntax required (any unordered or ordered list supported)
+- [x] this is a complete item
+- [ ] this is an incomplete item
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
+@baraahhawari
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/baraahhawari/Learning-Journal-/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+I Can ~~not~~ Do It.
