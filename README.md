@@ -34,12 +34,12 @@ youCant();}
 - [ ] this is an incomplete item
 
 
-| 102 Classes                                                                       |   201 Classes |
-| -------------                                                                     | ------------- |
-| [Class-01] (https://baraahhawari.github.io/Learning-Journal-/102-class-01)        |  [Class-01]   |
-| [Class-02] ()                                                                     | [Class-02] () |
-| [Class-03] ()     | [Class-03] ()                                                 |
-| [Class-04] ()     | [Class-04]()                                                  |
+| 102 Classes                                                                |   201 Classes |
+| -------------                                                              | ------------- |
+| [Class-01](https://baraahhawari.github.io/Learning-Journal-/102-class-01) |  [Class-01](https://baraahhawari.github.io/Learning-Journal-/201-class-01)  |
+| [Class-02]()                                                              | [Class-02]() |
+| [Class-03]()     | [Class-03]()                                                 |
+| [Class-04]()     | [Class-04]()                                                  |
 
 
 
