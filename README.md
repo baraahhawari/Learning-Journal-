@@ -41,10 +41,10 @@ youCant();}
 | [Class-02](https://baraahhawari.github.io/Learning-Journal-/102-class-02) |   
 | [Class-03](https://baraahhawari.github.io/Learning-Journal-/102-class-03) | 
 | [Class-04](https://baraahhawari.github.io/Learning-Journal-/102-class-04) | 
-| [Class-04](https://baraahhawari.github.io/Learning-Journal-/102-class-05) | 
-| [Class-04](https://baraahhawari.github.io/Learning-Journal-/102-class-06) | 
-| [Class-04](https://baraahhawari.github.io/Learning-Journal-/102-class-07) | 
-| [Class-04](https://baraahhawari.github.io/Learning-Journal-/102-class-08) | 
+| [Class-05](https://baraahhawari.github.io/Learning-Journal-/102-class-05) | 
+| [Class-06](https://baraahhawari.github.io/Learning-Journal-/102-class-06) | 
+| [Class-07](https://baraahhawari.github.io/Learning-Journal-/102-class-07) | 
+| [Class-08](https://baraahhawari.github.io/Learning-Journal-/102-class-08) | 
 
 
 
