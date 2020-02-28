@@ -28,18 +28,24 @@ youCant();}
 	 
  ### To Do List (In This Cohort) :hourglass_flowing_sand: :
 	
-- [x] @mentions, #refs, [links](), **formatting**, and <del>tags</del> supported
-- [x] list syntax required (any unordered or ordered list supported)
-- [x] this is a complete item
-- [ ] this is an incomplete item
+- [x] **get hands-on development experience**
+- [x] HTML5 and CSS3
+- [x] JAVASCRIPT
+- [ ] jQuery
 
 
-| 102 Classes                                                                |   201 Classes |
-| -------------                                                              | ------------- |
-| [Class-01](https://baraahhawari.github.io/Learning-Journal-/102-class-01)  |  [Class-01](https://baraahhawari.github.io/Learning-Journal-/201-class-01)                                              |
-| [Class-02]()                                                              | [Class-02]() |
-| [Class-03]()     | [Class-03]()                                                 |
-| [Class-04]()     | [Class-04]()                                                  |
+
+|102 Classes                                                                |     
+|---------------------------------------------------------------------------|
+| [Class-01](https://baraahhawari.github.io/Learning-Journal-/102-class-01) |  
+| [Class-02](https://baraahhawari.github.io/Learning-Journal-/102-class-02) |   
+| [Class-03](https://baraahhawari.github.io/Learning-Journal-/102-class-03) | 
+| [Class-04](https://baraahhawari.github.io/Learning-Journal-/102-class-04) | 
+| [Class-04](https://baraahhawari.github.io/Learning-Journal-/102-class-05) | 
+| [Class-04](https://baraahhawari.github.io/Learning-Journal-/102-class-06) | 
+| [Class-04](https://baraahhawari.github.io/Learning-Journal-/102-class-07) | 
+| [Class-04](https://baraahhawari.github.io/Learning-Journal-/102-class-08) | 
+
 
 
 
